@@ -71,7 +71,7 @@ pydantic-settings = "*"
 pyyaml = "^6.0.1"
 structlog = "^24.4.0"
 tenacity = "^8.2.2"
-tiktoken = "^0.4.0"
+tiktoken = "^0.9.0"
 tomli = { version = "*", python = "<3.11" }
 typing-extensions = { version = "*", python = "<3.11" }
 
